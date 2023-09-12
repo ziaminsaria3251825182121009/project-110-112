@@ -1,0 +1,16 @@
+#camera, #result{
+border: double 6px pink;
+border-radius: 10px;
+width: 350px;
+height: 250px;
+}
+
+body{
+    background: linear-gradient(#f0c5e4, #f09ad8, #f80759);
+}
+
+.heading{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
